@@ -7,4 +7,4 @@ This repository contains my Python practice programs.
 ## Goals
 - Learn Python
 - Improve coding skills
-- Become a Software Developer# python-practice
+- Become a Software Developer
